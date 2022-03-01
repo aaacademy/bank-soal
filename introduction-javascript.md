@@ -1,3 +1,7 @@
+Materi : Introduction Javascript - 27-02-22
+Link pengumpulan tugas: https://forms.gle/4VBSG162UC1F7PCs7
+
+
 ## Soal 1
 Apa yang akan terjadi jika kita mengakses nilai dari sebuah variabel yang tidak didefinisikan?
  
